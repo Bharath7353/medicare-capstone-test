@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Medicare Testsuite">
+	<test name="User Test">
+		<classes>
+			<class name="com.webapp.test.medicare.MedicareUserTest"></class>
+		</classes>
+	</test>
+	<test name="Admin Test">
+		<classes>
+			<class name="com.webapp.test.medicare.MedicareAdminTest"></class>
+		</classes>
+	</test>
+	
+</suite>
